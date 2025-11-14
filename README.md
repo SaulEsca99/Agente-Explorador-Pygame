@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Libraries](https://img.shields.io/badge/Librerías-Pygame%20%7C%20NumPy-green.svg)](https://pypi.org/)
 
-Este proyecto es un simulador interactivo de exploración de laberintos, construido con Pygame y NumPy. Permite a un usuario controlar un **agente** con diferentes habilidades para explorar un entorno cargado desde un archivo (`map.txt`).
+Este proyecto es un simulador interactivo de exploración de laberintos, construido con Pygame y NumPy. Permite a un usuario controlar un **agente** con diferentes habilidades para explorar un entorno cargado desde un archivo (`mapa.txt`).
 
 La característica principal es el concepto de **entorno parcialmente observable** ("Fog of War"): el agente solo puede "ver" las celdas que explora, y el mapa se revela progresivamente.
 
